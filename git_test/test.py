@@ -1,6 +1,7 @@
 def func1:
     print('func1')
     print('313add func1')
+    print('boss told')
     return (313,lpy)
 
 def func2(by313):
