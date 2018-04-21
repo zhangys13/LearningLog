@@ -102,3 +102,6 @@ ENV/
 
 # SQLite
 *.sqlite3
+
+# auto save
+*.*~
