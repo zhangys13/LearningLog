@@ -5,6 +5,7 @@ def func1:
     return (313,lpy_stash_learn)
 
 def func2(by313):
+    print("stash learn")
     print("hello 313, like you!")
     print('func2')
     return
