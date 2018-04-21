@@ -1,4 +1,4 @@
-def func1:
+def func1(by212):
     print('func1')
     print('313add func1')
     print('boss told')
