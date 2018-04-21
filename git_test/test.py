@@ -7,3 +7,7 @@ def func1:
 def func2(by313):
     print("hello 313, like you!")
     print('func2')
+    return
+
+def func3:
+    print('233333')
